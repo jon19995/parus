@@ -7,12 +7,11 @@
 
 <script>
 import PatientsList from "@/pages/PatientsList/PatientsList.vue";
-import { Container, Aside, Header } from "element-ui";
+import { Container, Aside } from "element-ui";
 export default {
     components: {
         PatientsList,
         [Aside.name]: Aside,
-        [Header.name]: Header,
         [Container.name]: Container,
     },
 };
