@@ -1,0 +1,807 @@
+{
+    "contentType": null,
+    "serializerSettings": null,
+    "statusCode": null,
+    "value": [
+        {
+            "id": 15,
+            "lastName": "фамилия14",
+            "firstName": "имя14",
+            "birthDate": "1975-09-22T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "lastName": "фамилия11",
+            "firstName": "имя11",
+            "birthDate": "1967-11-26T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "lastName": "фамилия13",
+            "firstName": "имя13",
+            "birthDate": "1985-05-02T20:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "lastName": "фамилия18",
+            "firstName": "имя18",
+            "birthDate": "2000-11-08T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "lastName": "фамилия17",
+            "firstName": "имя17",
+            "birthDate": "1953-01-10T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "lastName": "фамилия20",
+            "firstName": "имя20",
+            "birthDate": "1986-01-24T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "lastName": "фамилия24",
+            "firstName": "имя24",
+            "birthDate": "1962-05-11T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "lastName": "фамилия21",
+            "firstName": "имя21",
+            "birthDate": "1987-05-16T20:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "lastName": "фамилия23",
+            "firstName": "имя23",
+            "birthDate": "1953-08-21T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "lastName": "фамилия30",
+            "firstName": "имя30",
+            "birthDate": "1977-03-21T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "lastName": "фамилия25",
+            "firstName": "имя25",
+            "birthDate": "1970-10-13T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "lastName": "фамилия27",
+            "firstName": "имя27",
+            "birthDate": "1997-07-12T20:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "lastName": "фамилия32",
+            "firstName": "имя32",
+            "birthDate": "1956-02-05T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "lastName": "фамилия34",
+            "firstName": "имя34",
+            "birthDate": "1979-08-17T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "lastName": "фамилия38",
+            "firstName": "имя38",
+            "birthDate": "1976-05-31T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "lastName": "фамилия35",
+            "firstName": "имя35",
+            "birthDate": "1985-05-02T20:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "lastName": "фамилия37",
+            "firstName": "имя37",
+            "birthDate": "1962-10-20T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "lastName": "фамилия39",
+            "firstName": "имя39",
+            "birthDate": "1966-03-17T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "lastName": "фамилия41",
+            "firstName": "имя41",
+            "birthDate": "1991-12-31T22:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "lastName": "фамилия45",
+            "firstName": "имя45",
+            "birthDate": "1989-02-03T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "lastName": "фамилия50",
+            "firstName": "имя50",
+            "birthDate": "1953-01-26T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "lastName": "фамилия3",
+            "firstName": "имя3",
+            "birthDate": "1987-10-24T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "lastName": "фамилия7",
+            "firstName": "имя7",
+            "birthDate": "1984-02-16T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "lastName": "фамилия9",
+            "firstName": "имя9",
+            "birthDate": "1990-10-17T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "lastName": "фамилия10",
+            "firstName": "имя10",
+            "birthDate": "1988-08-15T20:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "lastName": "фамилия31",
+            "firstName": "имя31",
+            "birthDate": "1959-11-05T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "lastName": "фамилия47",
+            "firstName": "имя47",
+            "birthDate": "1975-01-08T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "lastName": "фамилия49",
+            "firstName": "имя49",
+            "birthDate": "1988-08-25T20:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "lastName": "фамилия52",
+            "firstName": "имя52",
+            "birthDate": "1991-07-13T21:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "lastName": "фамилия56",
+            "firstName": "имя56",
+            "birthDate": "1987-11-25T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "lastName": "фамилия53",
+            "firstName": "имя53",
+            "birthDate": "1958-10-02T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "lastName": "фамилия60",
+            "firstName": "имя60",
+            "birthDate": "1956-03-31T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "lastName": "фамилия57",
+            "firstName": "имя57",
+            "birthDate": "1995-10-18T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "lastName": "фамилия59",
+            "firstName": "имя59",
+            "birthDate": "1971-10-31T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "lastName": "фамилия64",
+            "firstName": "имя64",
+            "birthDate": "1988-11-09T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "lastName": "фамилия61",
+            "firstName": "имя61",
+            "birthDate": "1989-02-18T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "lastName": "фамилия63",
+            "firstName": "имя63",
+            "birthDate": "1987-09-25T20:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "lastName": "фамилия66",
+            "firstName": "имя66",
+            "birthDate": "2001-10-09T20:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "lastName": "фамилия68",
+            "firstName": "имя68",
+            "birthDate": "1964-02-06T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "lastName": "фамилия70",
+            "firstName": "имя70",
+            "birthDate": "1967-10-19T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "lastName": "фамилия74",
+            "firstName": "имя74",
+            "birthDate": "1952-03-03T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "lastName": "фамилия71",
+            "firstName": "имя71",
+            "birthDate": "1967-04-14T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "lastName": "фамилия73",
+            "firstName": "имя73",
+            "birthDate": "1967-05-21T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "lastName": "фамилия78",
+            "firstName": "имя78",
+            "birthDate": "1964-10-06T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "lastName": "фамилия75",
+            "firstName": "имя75",
+            "birthDate": "1963-07-18T21:00:00Z",
+            "tags": [
+                {
+                    "id": 2,
+                    "value": "студент"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "lastName": "фамилия77",
+            "firstName": "имя77",
+            "birthDate": "1976-08-24T21:00:00Z",
+            "tags": [
+                {
+                    "id": 4,
+                    "value": "новый"
+                },
+                {
+                    "id": 1,
+                    "value": "VIP"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "lastName": "фамилия82",
+            "firstName": "имя82",
+            "birthDate": "1984-08-22T20:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "lastName": "фамилия81",
+            "firstName": "имя81",
+            "birthDate": "1995-08-08T20:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 2,
+                    "value": "студент"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "lastName": "фамилия46",
+            "firstName": "имя46",
+            "birthDate": "1974-05-04T21:00:00Z",
+            "tags": [
+                {
+                    "id": 1,
+                    "value": "VIP"
+                },
+                {
+                    "id": 4,
+                    "value": "новый"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "lastName": "фамилия88",
+            "firstName": "имя88",
+            "birthDate": "1990-04-03T20:00:00Z",
+            "tags": [
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                },
+                {
+                    "id": 3,
+                    "value": "конфликт"
+                }
+            ]
+        }
+    ]
+}
